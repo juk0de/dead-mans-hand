@@ -93,7 +93,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
      inkscape:cx="383.28012"
-     inkscape:cy="620.32619"
+     inkscape:cy="780.58268"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -289,6 +289,132 @@
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold'">Big Nerve Test (Pg. 14)</tspan></text>
     </g>
     <g
+       id="g11"
+       inkscape:label="Hand to Hand Fighting">
+      <g
+         id="g62"
+         inkscape:label="Table"
+         style="display:inline"
+         transform="translate(0,702)">
+        <path
+           id="path16"
+           d="M 48.666665,139.24936 H 239.99999 v 24.07681 H 48.666665 Z m 191.333325,0 h 505.03466 v 24.07681 H 239.99999 Z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.48528" />
+        <path
+           id="path31"
+           d="M 48.666665,163.99391 H 239.99999 v 46.61404 H 48.666665 Z m 191.333325,0 h 505.03466 v 46.61404 H 239.99999 Z"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.06665"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           id="path43"
+           d="M 0,0 H 144"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,48,139.2496)" />
+        <path
+           id="path44"
+           d="M 0,-4.5000001 V 13.552"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,48.666667,157.986)"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path45"
+           d="M 0,0 H 379.276"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,240,139.2496)" />
+        <path
+           id="path48"
+           d="M 0,-4.5000001 V 13.552"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,240,157.986)"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path49"
+           d="M 0,-4.5000001 V 13.552"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,745.03413,157.986)"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path56"
+           d="M 48,163.32682 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path57"
+           d="M 240,163.32682 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path58"
+           d="M 48,210.95156 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path59"
+           d="M 240,210.95156 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path60"
+           d="M 0,48.19043 V 83.757565"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,48.666667,274.404)"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path61"
+           d="M 0,47.83631 V 83.757565"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,240,274.404)"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path62"
+           d="M 0,48.19043 V 87.023518"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.3333333,0,0,-1.3333333,745.03413,274.404)"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="54.43446"
+         y="857.37225"
+         id="text69"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           x="54.43446"
+           y="857.37225"
+           style="fill:#000000;fill-opacity:1">Initiate</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:0.8"
+         x="244.08536"
+         y="857.37225"
+         id="text70"><tspan
+           sodipodi:role="line"
+           id="tspan70"
+           x="244.08536"
+           y="857.37225">Requires 2 actions: &quot;Move&quot; (into base to base contact) and &quot;Fight&quot; (start combat).</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000"
+         x="47.920006"
+         y="849.17987"
+         id="text4"
+         inkscape:label="Title"
+         transform="translate(0,-20)"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="47.920006"
+           y="849.17987"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold'">Hand to Hand Fighting (Pg. 15)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="54.43446"
+         y="880.74298"
+         id="text71"><tspan
+           sodipodi:role="line"
+           id="tspan71"
+           x="54.43446"
+           y="880.74298"
+           style="fill:#000000;fill-opacity:1">Resolve</tspan></text>
+    </g>
+    <g
        id="g3"
        inkscape:label="Falling"
        transform="translate(0,-19.205677)">
@@ -300,12 +426,12 @@
         <path
            id="path32"
            d="M 48.666665,415.06241 H 239.99999 v 23.86192 H 48.666665 Z m 191.333325,0 h 505.03466 v 23.86192 H 239.99999 Z"
-           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47863"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47863"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path33"
            d="M 48.666665,439.3422 H 239.99999 v 23.82 H 48.666665 Z m 191.333325,0 h 505.03466 v 23.82 H 239.99999 Z"
-           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47734"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47734"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path34"
@@ -572,12 +698,12 @@
         <path
            id="path5"
            d="M 48.666665,415.06241 H 239.99999 v 43.27537 H 48.666665 Z m 191.333325,0 h 505.03466 v 43.27537 H 239.99999 Z"
-           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99126"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99126"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path6"
            d="M 48.666665,457.49952 H 239.99999 v 39.55337 H 48.666665 Z m 191.333325,0 h 505.03466 v 39.55337 H 239.99999 Z"
-           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.9037"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.9037"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path7"
@@ -679,13 +805,13 @@
          transform="translate(0,-18)">
         <path
            id="path115"
-           d="M 48.666665,158.65202 H 239.99999 v 47.94952 H 48.666665 Z m 191.333325,0 h 505.03466 v 47.94952 H 239.99999 Z"
-           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.09604"
+           d="M 48.666665,158.65202 H 239.99999 v 49.95273 H 48.666665 Z m 191.333325,0 h 505.03466 v 49.95273 H 239.99999 Z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13938"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path116"
            d="M 48.666665,209.43582 H 239.99999 v 95.89263 H 48.666665 Z m 191.333325,0 h 505.03466 v 95.89263 H 239.99999 Z"
-           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.96414"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.96414"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path122"
