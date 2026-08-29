@@ -92,14 +92,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
-     inkscape:cx="382.94625"
-     inkscape:cy="727.16385"
+     inkscape:cx="383.28012"
+     inkscape:cy="620.32619"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10">
+     inkscape:current-layer="g1">
     <inkscape:page
        x="0"
        y="0"
@@ -140,7 +140,8 @@
     </g>
     <g
        id="g10"
-       inkscape:label="Big Nerve Test">
+       inkscape:label="Big Nerve Test"
+       transform="translate(0,-20)">
       <g
          id="g43"
          inkscape:label="Table"
@@ -149,7 +150,7 @@
         <path
            id="path12"
            d="M 36.5,737.453 H 180 V 722.901 H 36.5 Z m 143.5,0 H 558.776 V 722.901 H 180 Z"
-           style="fill:#ad8d6e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1.3333333,0,0,-1.3333333,0,1122.52)" />
         <path
            id="path15"
@@ -289,7 +290,8 @@
     </g>
     <g
        id="g3"
-       inkscape:label="Falling">
+       inkscape:label="Falling"
+       transform="translate(0,-19.205677)">
       <g
          id="g42"
          inkscape:label="Table"
@@ -552,7 +554,7 @@
        id="g2"
        inkscape:label="Shooting from higher Ground"
        style="display:inline"
-       transform="translate(0,-20.032062)">
+       transform="translate(0,-37.241549)">
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#ad8d6e;fill-opacity:0.774773"
@@ -670,23 +672,11 @@
     <g
        id="g388"
        inkscape:label="Interruptions">
-      <text
-         id="text12"
-         xml:space="preserve"
-         transform="matrix(1.3333333,0,0,1.3333333,48,132.73627)"><tspan
-           id="tspan12"
-           style="font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:akaPosse;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           y="0">Interruptions (Pg. 12)</tspan></text>
       <g
          id="g8"
          inkscape:label="Table"
-         style="display:inline">
-        <path
-           id="path114"
-           d="M 36.5,737.453 H 180 V 722.901 H 36.5 Z m 143.5,0 H 558.776 V 722.901 H 180 Z"
-           style="fill:#ad8d6e;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1.3333333,0,0,-1.3333333,0,1122.52)" />
+         style="display:inline"
+         transform="translate(0,-18)">
         <path
            id="path115"
            d="M 48.666665,158.65202 H 239.99999 v 47.94952 H 48.666665 Z m 191.333325,0 h 505.03466 v 47.94952 H 239.99999 Z"
@@ -697,31 +687,6 @@
            d="M 48.666665,209.43582 H 239.99999 v 95.89263 H 48.666665 Z m 191.333325,0 h 505.03466 v 95.89263 H 239.99999 Z"
            style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.96414"
            sodipodi:nodetypes="cccccccccc" />
-        <path
-           id="path117"
-           d="M 0,0 H 144"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,48,139.2496)" />
-        <path
-           id="path118"
-           d="M 0,0 V 13.552"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,48.666667,157.986)" />
-        <path
-           id="path119"
-           d="M 0,0 H 379.276"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,139.2496)" />
-        <path
-           id="path120"
-           d="M 0,0 V 13.552"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,157.986)" />
-        <path
-           id="path121"
-           d="M 0,0 V 13.552"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,745.03413,157.986)" />
         <path
            id="path122"
            d="M 0,0 H 144"
@@ -742,19 +707,19 @@
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path148"
-           d="M 0,-22.309572 V 89.757565"
+           d="M 0,-22.309572 V 86.757565"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,48.666667,274.404)"
            sodipodi:nodetypes="cc" />
         <path
            id="path150"
-           d="M 0,-22.663692 V 89.757565"
+           d="M 0,-22.663692 V 86.757565"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,240,274.404)"
            sodipodi:nodetypes="cc" />
         <path
            id="path151"
-           d="M 0,-22.309572 V 93.023518"
+           d="M 0,-22.309572 V 87.023518"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,745.03413,274.404)"
            sodipodi:nodetypes="cc" />
@@ -768,37 +733,24 @@
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <text
-         id="text153"
-         xml:space="preserve"
-         transform="matrix(1.3333333,0,0,1.3333333,54,153.31933)"><tspan
-           id="tspan153"
-           style="font-variant:normal;font-weight:700;font-stretch:normal;font-size:9px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           dx="0 0 0 0 0 0 115.497"
-           y="0">ActionSummary</tspan><tspan
-           id="tspan154"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           y="14.553" /></text>
-      <text
          xml:space="preserve"
          style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.774773"
          x="245.30934"
-         y="173.1814"
+         y="155.1814"
          id="text373"><tspan
            sodipodi:role="line"
            id="tspan373"
            x="245.30934"
-           y="173.1814"
+           y="155.1814"
            style="fill:#000000;fill-opacity:1">If not yet activated and being shot at -&gt; Move up to 10cm toward cover / away from the shooter.</tspan><tspan
            sodipodi:role="line"
            x="245.30934"
-           y="188.1814"
+           y="170.1814"
            style="fill:#000000;fill-opacity:1"
            id="tspan374">Shooter is entitled to a single shot, even if target moves out of sight.</tspan><tspan
            sodipodi:role="line"
            x="245.30934"
-           y="203.1814"
+           y="185.1814"
            style="fill:#000000;fill-opacity:1"
            id="tspan376"><tspan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
@@ -807,77 +759,86 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
          x="48.868328"
-         y="320.45505"
+         y="302.45505"
          id="text378"><tspan
            sodipodi:role="line"
            id="tspan378"
            x="48.868328"
-           y="320.45505"
+           y="302.45505"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">* May also be used to avoid hand to hand fighting.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
          x="55.154453"
-         y="224.88269"
+         y="206.88269"
          id="text379"><tspan
            sodipodi:role="line"
            id="tspan379"
            x="55.154453"
-           y="224.88269">Quick Shot</tspan></text>
+           y="206.88269">Quick Shot</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
          x="54.674465"
-         y="173.14539"
+         y="155.14539"
          id="text380"><tspan
            sodipodi:role="line"
            id="tspan380"
            x="54.674465"
-           y="173.14539">Duck Back*</tspan></text>
+           y="155.14539">Duck Back*</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
          x="244.68533"
-         y="224.39883"
+         y="206.39883"
          id="text381"><tspan
            sodipodi:role="line"
            id="tspan381"
            x="244.68533"
-           y="224.39883">If not yet activated and enemy activates -&gt; take a single Shoot against the activating enemy.</tspan><tspan
+           y="206.39883">If not yet activated and enemy activates -&gt; take a single Shoot against the activating enemy.</tspan><tspan
            sodipodi:role="line"
            x="244.68533"
-           y="239.39883"
+           y="221.39883"
            id="tspan382">The enemy character does not have to attack the interrupting character.</tspan><tspan
            sodipodi:role="line"
            x="244.68533"
-           y="254.39883"
+           y="236.39883"
            id="tspan383">If the enemy character is moving, the shot can be taken at any point during that movement.</tspan><tspan
            sodipodi:role="line"
            x="244.68533"
-           y="269.39883"
+           y="251.39883"
            id="tspan384">If the enemy character is shooting:</tspan><tspan
            sodipodi:role="line"
            x="244.68533"
-           y="284.39883"
+           y="266.39883"
            id="tspan385">- quickshooter shoots first if enemy is at long range</tspan><tspan
            sodipodi:role="line"
            x="244.68533"
-           y="299.39883"
+           y="281.39883"
            id="tspan386">- shooting is simultaneously if enemy is at close or point blank range</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
          x="49.108334"
-         y="340.42755"
+         y="322.42755"
          id="text387"><tspan
            sodipodi:role="line"
            id="tspan387"
            x="49.108334"
-           y="340.42755">If Duck Back and Quick Shot are combined (using the Joker), the shooting happens simultaneously. The quickshot target gets the -1</tspan><tspan
+           y="322.42755">If Duck Back and Quick Shot are combined (using the Joker), the shooting happens simultaneously. The quickshot target gets the -1</tspan><tspan
            sodipodi:role="line"
            x="49.108334"
-           y="355.42755"
+           y="337.42755"
            id="tspan388">for the target moving, but no cover modifier (even if the quickshooter gets into substantial cover) (FAQ 1.1).</tspan></text>
+      <text
+         id="text12"
+         xml:space="preserve"
+         transform="matrix(1.3333333,0,0,1.3333333,48,132.73627)"
+         inkscape:label="Title"><tspan
+           id="tspan12"
+           style="font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:akaPosse;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="0"
+           y="0">Interruptions (Pg. 12)</tspan></text>
     </g>
     <g
        id="g9"
