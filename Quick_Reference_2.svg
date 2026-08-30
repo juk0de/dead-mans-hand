@@ -92,8 +92,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
-     inkscape:cx="383.28012"
-     inkscape:cy="780.58268"
+     inkscape:cx="435.69735"
+     inkscape:cy="887.42035"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -141,22 +141,21 @@
     <g
        id="g10"
        inkscape:label="Big Nerve Test"
-       transform="translate(0,-20)">
+       transform="translate(0,227.93909)">
       <g
          id="g43"
          inkscape:label="Table"
          style="display:inline"
          transform="translate(0,606)">
         <path
-           id="path12"
-           d="M 36.5,737.453 H 180 V 722.901 H 36.5 Z m 143.5,0 H 558.776 V 722.901 H 180 Z"
-           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1.3333333,0,0,-1.3333333,0,1122.52)" />
-        <path
-           id="path15"
-           d="M 48.666665,158.65202 H 239.99999 v 51.95593 H 48.666665 Z m 191.333325,0 h 505.03466 v 51.95593 H 239.99999 Z"
-           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.18185"
+           id="path85"
+           d="m 244.31314,140.33385 h 137.57771 v 39.26894 H 244.31314 Z m 137.57771,0 h 363.1438 v 39.26894 h -363.1438 z"
+           style="display:inline;fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.60847"
            sodipodi:nodetypes="cccccccccc" />
+        <path
+           id="path12"
+           d="m 48.666665,139.24936 h 53.183225 v 41.43793 H 48.666665 Z m 53.183225,0 h 140.38 v 41.43793 h -140.38 z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0273" />
         <path
            id="path17"
            d="M 0,0 H 144"
@@ -174,47 +173,37 @@
            transform="matrix(1.3333333,0,0,-1.3333333,240,139.2496)" />
         <path
            id="path22"
-           d="M 0,0 V 13.552"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,157.986)" />
+           d="M 242,157.986 V 139.91667"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path23"
            d="M 0,0 V 13.552"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,745.03413,157.986)" />
         <path
-           id="path24"
-           d="M 0,0 H 144"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,48,158.65267)" />
-        <path
-           id="path25"
-           d="M 0,0 H 379.276"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,158.65267)" />
-        <path
            id="path26"
-           d="M 48,210.95156 H 240"
-           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+           d="M 48,180.95156 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
         <path
            id="path27"
-           d="M 240,210.95156 H 745.70132"
-           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+           d="M 240,180.95156 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
         <path
            id="path28"
-           d="M 0,48.19043 V 89.757565"
+           d="M 0,70.69043 V 89.757565"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,48.666667,274.404)"
            sodipodi:nodetypes="cc" />
         <path
            id="path29"
-           d="M 0,47.83631 V 89.757565"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,274.404)"
+           d="m 242,180.62225 v -25.895"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path30"
-           d="M 0,48.19043 V 93.023518"
+           d="M 0,70.69043 V 93.023518"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,745.03413,274.404)"
            sodipodi:nodetypes="cc" />
@@ -222,59 +211,31 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8"
-         x="55.154453"
-         y="759.88287"
-         id="text45"><tspan
-           sodipodi:role="line"
-           id="tspan44"
-           x="55.154453"
-           y="759.88287">Condition</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8"
-         x="244.56534"
-         y="759.88287"
-         id="text51"><tspan
-           sodipodi:role="line"
-           id="tspan51"
-           x="244.56534"
-           y="759.88287">Test</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8"
          x="55.274456"
-         y="779.91492"
+         y="763.91815"
          id="text52"><tspan
            sodipodi:role="line"
-           id="tspan52"
            x="55.274456"
-           y="779.91492">More than 50% of your characters</tspan><tspan
+           y="763.91815"
+           id="tspan54">&gt; 50% of your characters are out of </tspan><tspan
            sodipodi:role="line"
            x="55.274456"
-           y="794.91492"
-           id="tspan54">are out of action (OOA) at the start</tspan><tspan
-           sodipodi:role="line"
-           x="55.274456"
-           y="809.91492"
-           id="tspan67">of a turn.</tspan></text>
+           y="778.91815"
+           id="tspan67">action (OOA) at the start of a turn.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8"
-         x="244.86536"
-         y="779.24719"
+         x="250.20724"
+         y="763.25043"
          id="text65"><tspan
            sodipodi:role="line"
            id="tspan65"
-           x="244.86536"
-           y="779.24719">Make a Nerve based on the character with the best Nerve value in your gang (that is still alive).</tspan><tspan
+           x="250.20724"
+           y="763.25043">Make a Nerve based on the character with the best Nerve value in your gang (that is still alive).</tspan><tspan
            sodipodi:role="line"
-           x="244.86536"
-           y="794.24719"
-           id="tspan66">Apply a -1 penalty for each OOA character below 50% (e.g. if 4 out of 7 characters are OOA, </tspan><tspan
-           sodipodi:role="line"
-           x="244.86536"
-           y="809.24719"
-           id="tspan68">apply -1 to your roll).</tspan></text>
+           x="250.20724"
+           y="778.25043"
+           id="tspan68">Apply a -1 penalty for each OOA character below 50% (e.g. 4 out of 7 OOA -&gt; -1 penalty).</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000"
@@ -290,20 +251,39 @@
     </g>
     <g
        id="g11"
-       inkscape:label="Hand to Hand Fighting">
+       inkscape:label="Hand to Hand Fighting"
+       transform="translate(0,-224.87833)">
       <g
          id="g62"
          inkscape:label="Table"
          style="display:inline"
          transform="translate(0,702)">
         <path
+           id="path76"
+           d="M 48.666665,416.02918 H 239.99999 v 37.93347 H 48.666665 Z m 191.333325,0 h 505.03466 v 37.93347 H 239.99999 Z"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.86431"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           id="path74"
+           d="M 48.666665,177.35183 H 239.99999 V 288.73619 H 48.666665 Z m 191.333325,0 H 745.03465 V 288.73619 H 239.99999 Z"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.19464"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           id="path73"
+           d="M 48.666665,289.47379 H 239.99999 v 52.1217 H 48.666665 Z m 191.333325,0 h 505.03466 v 52.1217 H 239.99999 Z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.18533" />
+        <path
+           id="path75"
+           d="M 48.666665,379.47379 H 239.99999 v 38.76699 H 48.666665 Z m 191.333325,0 h 505.03466 v 38.76699 H 239.99999 Z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88468" />
+        <path
            id="path16"
-           d="M 48.666665,139.24936 H 239.99999 v 24.07681 H 48.666665 Z m 191.333325,0 h 505.03466 v 24.07681 H 239.99999 Z"
-           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.48528" />
+           d="M 48.666665,139.24936 H 239.99999 v 37.43152 H 48.666665 Z m 191.333325,0 h 505.03466 v 37.43152 H 239.99999 Z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.85194" />
         <path
            id="path31"
-           d="M 48.666665,163.99391 H 239.99999 v 46.61404 H 48.666665 Z m 191.333325,0 h 505.03466 v 46.61404 H 239.99999 Z"
-           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.06665"
+           d="M 48.666665,342.02277 H 239.99999 v 37.93347 H 48.666665 Z m 191.333325,0 h 505.03466 v 37.93347 H 239.99999 Z"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.86432"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path43"
@@ -323,9 +303,8 @@
            transform="matrix(1.3333333,0,0,-1.3333333,240,139.2496)" />
         <path
            id="path48"
-           d="M 0,-4.5000001 V 13.552"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,157.986)"
+           d="M 218,163.986 V 139.91667"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path49"
@@ -335,38 +314,69 @@
            sodipodi:nodetypes="cc" />
         <path
            id="path56"
-           d="M 48,163.32682 H 240"
+           d="M 48,177.35568 H 240"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path57"
-           d="M 240,163.32682 H 745.70132"
+           d="M 240,177.35568 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path58"
-           d="M 48,210.95156 H 240"
+           d="M 48,289.06057 H 240"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path59"
-           d="M 240,210.95156 H 745.70132"
+           d="M 240,289.06057 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path60"
-           d="M 0,48.19043 V 83.757565"
+           d="M 0,-134.30636 V 83.757565"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,48.666667,274.404)"
            sodipodi:nodetypes="cc" />
         <path
            id="path61"
-           d="M 0,47.83631 V 83.757565"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,274.404)"
+           d="M 218,454.62226 V 162.72725"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path62"
-           d="M 0,48.19043 V 87.023518"
+           d="M 0,-134.30636 V 87.023518"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,745.03413,274.404)"
            sodipodi:nodetypes="cc" />
+        <path
+           id="path77"
+           d="M 48,341.81167 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path78"
+           d="M 240,341.81167 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path79"
+           d="M 48,379.87259 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path80"
+           d="M 240,379.87259 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path81"
+           d="M 48,417.25616 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path82"
+           d="M 240,417.25616 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path83"
+           d="M 48,453.98481 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path84"
+           d="M 240,453.98481 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <text
          xml:space="preserve"
@@ -382,13 +392,17 @@
       <text
          xml:space="preserve"
          style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:0.8"
-         x="244.08536"
+         x="224.73065"
          y="857.37225"
          id="text70"><tspan
            sodipodi:role="line"
            id="tspan70"
-           x="244.08536"
-           y="857.37225">Requires 2 actions: &quot;Move&quot; (into base to base contact) and &quot;Fight&quot; (start combat).</tspan></text>
+           x="224.73065"
+           y="857.37225">Requires 2 actions: &quot;Move&quot; (into base to base contact) and &quot;Fight&quot; (start combat).</tspan><tspan
+           sodipodi:role="line"
+           x="224.73065"
+           y="872.37225"
+           id="tspan39">Only 2 opponents may fight in a single HtH combat. Fighters may not be shot at.</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000"
@@ -405,19 +419,184 @@
       <text
          xml:space="preserve"
          style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
-         x="54.43446"
-         y="880.74298"
+         x="54.674465"
+         y="895.40753"
          id="text71"><tspan
            sodipodi:role="line"
            id="tspan71"
-           x="54.43446"
-           y="880.74298"
-           style="fill:#000000;fill-opacity:1">Resolve</tspan></text>
+           x="54.674465"
+           y="895.40753"
+           style="fill:#000000;fill-opacity:1">First turn of fighting</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="224.85065"
+         y="895.40753"
+         id="text5"><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="895.40753"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan20">Roll against each other with a D10</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="910.40753"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan86">+1 for the character that initiated the hand to hand fighting this turn</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="925.40753"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan13">+1 for each Under Fire Marker the opponent has</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="940.40753"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan21">+1 if character is armed with a hand weapon</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="955.40753"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan22">+1 if character on higher ground (e.g. mounted on or jumping from a horse, building, wagon, etc.)</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="970.40753"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan23">The looser takes 1 Under Fire Marker per point of difference. In case of a draw, fight again next turn.</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="985.40753"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan38">If the attacker goes Out of Action, the defender has 2 actions left if not activated before the fight.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="54.674465"
+         y="1096.9994"
+         id="text24"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           x="54.674465"
+           y="1096.9994"
+           style="fill:#000000;fill-opacity:1">Mounted characters</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="224.25067"
+         y="1096.9994"
+         id="text25"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           x="224.25067"
+           y="1096.9994"
+           style="fill:#000000;fill-opacity:1">Mounted characters are dragged off their horse if loosing a fight. The horse is removed from play.</tspan><tspan
+           sodipodi:role="line"
+           x="224.25067"
+           y="1111.9994"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan85">If attacking with a lasso, the defender takes an Under Fire Marker if failing a Nerve test (only once).</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="54.674465"
+         y="1059.6896"
+         id="text26"><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           x="54.674465"
+           y="1059.6896"
+           style="fill:#000000;fill-opacity:1">Fight for Time</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="224.85065"
+         y="1059.6896"
+         id="text27"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="224.85065"
+           y="1059.6896"
+           style="fill:#000000;fill-opacity:1">Declare defensive fighting before the dice rolls. Take one less Under Fire Marker if loosing. In case</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="1074.6896"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan28">of a win, the opponent takes no damage at all.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="55.154453"
+         y="1006.4921"
+         id="text31"><tspan
+           sodipodi:role="line"
+           id="tspan31"
+           x="55.154453"
+           y="1006.4921"
+           style="fill:#000000;fill-opacity:1">Consecutive turns</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="224.85065"
+         y="1006.4921"
+         id="text33"><tspan
+           sodipodi:role="line"
+           id="tspan33"
+           x="224.85065"
+           y="1006.4921"
+           style="fill:#000000;fill-opacity:1">Both fighters get initiative cards. The higher one gets a +1 bonus for the fight.</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="1021.4921"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan41">The fighter with higher initiative may brake off and move away using 2 Move actions.</tspan><tspan
+           sodipodi:role="line"
+           x="224.85065"
+           y="1036.4922"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan35">Only one fight / roll off happens per turn! If both combatants survive, their remaining actions are lost.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="223.37152"
+         y="1046.4376"
+         id="text40"><tspan
+           sodipodi:role="line"
+           id="tspan40"
+           x="223.37152"
+           y="1046.4376"
+           style="fill:#000000;fill-opacity:1" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="54.674465"
+         y="1133.7152"
+         id="text53"><tspan
+           sodipodi:role="line"
+           id="tspan53"
+           x="54.674465"
+           y="1133.7152"
+           style="fill:#000000;fill-opacity:1">Building / vehicles</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
+         x="225.03067"
+         y="1133.7512"
+         id="text72"><tspan
+           sodipodi:role="line"
+           id="tspan72"
+           x="225.03067"
+           y="1133.7512"
+           style="fill:#000000;fill-opacity:1">Within 5cm of an edge, the winner may push their opponent off the roof/vehicle (must be declared</tspan><tspan
+           sodipodi:role="line"
+           x="225.03067"
+           y="1148.7512"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan73">before rolling dice). Apply falling damage to the looser instead of normal HtH damage.</tspan></text>
     </g>
     <g
        id="g3"
        inkscape:label="Falling"
-       transform="translate(0,-19.205677)">
+       transform="translate(0,-134.72857)">
       <g
          id="g42"
          inkscape:label="Table"
@@ -680,7 +859,7 @@
        id="g2"
        inkscape:label="Shooting from higher Ground"
        style="display:inline"
-       transform="translate(0,-37.241549)">
+       transform="translate(0,-125.409)">
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#ad8d6e;fill-opacity:0.774773"
@@ -697,36 +876,36 @@
          inkscape:label="Table">
         <path
            id="path5"
-           d="M 48.666665,415.06241 H 239.99999 v 43.27537 H 48.666665 Z m 191.333325,0 h 505.03466 v 43.27537 H 239.99999 Z"
-           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99126"
+           d="M 48.666665,415.06241 H 239.99999 v 27.24972 H 48.666665 Z m 191.333325,0 h 505.03466 v 27.24972 H 239.99999 Z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.58012"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path6"
-           d="M 48.666665,457.49952 H 239.99999 v 39.55337 H 48.666665 Z m 191.333325,0 h 505.03466 v 39.55337 H 239.99999 Z"
-           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.9037"
+           d="M 48.666665,443.49952 H 239.99999 v 23.52772 H 48.666665 Z m 191.333325,0 h 505.03466 v 23.52772 H 239.99999 Z"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.46824"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path7"
-           d="M 48.666667,496.81886 V 414.47632"
+           d="M 48.666667,466.81886 V 414.47632"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path8"
-           d="m 240,497.29102 v -82.8147"
+           d="m 157.35471,467.29102 v -52.8147"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path9"
-           d="m 745.03413,496.81886 v -82.023"
+           d="m 745.03413,466.81886 v -52.023"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path10"
-           d="M 48,497.48552 H 240"
+           d="M 48,467.48552 H 240"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path11"
-           d="M 240,497.48552 H 745.70132"
+           d="M 240,467.48552 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path13"
@@ -738,66 +917,59 @@
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path20"
-           d="M 48,457.06043 H 240"
+           d="M 48,442.38949 H 240"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path21"
-           d="M 240,457.06043 H 745.70132"
+           d="M 240,442.38949 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
          x="54.674465"
-         y="431.32108"
+         y="432.65656"
          id="text14"><tspan
            sodipodi:role="line"
            id="tspan14"
            x="54.674465"
-           y="431.32108"
+           y="432.65656"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans">Range</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
-         x="244.16934"
-         y="431.35709"
+         x="163.37337"
+         y="432.69257"
          id="text15"><tspan
            sodipodi:role="line"
-           id="tspan15"
-           x="244.16934"
-           y="431.35709">If shooter is 6+ cm higher than target, measure range at the level of the target</tspan><tspan
-           sodipodi:role="line"
-           x="244.16934"
-           y="446.35709"
-           id="tspan16">(instead of measuring from shooter to target).</tspan></text>
+           x="163.37337"
+           y="432.69257"
+           id="tspan16">If shooter is 6+ cm higher than target, measure range at the level of the target (instead of from shooter to target).</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
          x="55.154453"
-         y="472.26404"
+         y="458.26083"
          id="text17"><tspan
            sodipodi:role="line"
            id="tspan17"
            x="55.154453"
-           y="472.26404">Cover</tspan></text>
+           y="458.26083">Cover</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
-         x="244.16934"
-         y="472.15607"
+         x="163.37337"
+         y="458.15286"
          id="text18"><tspan
            sodipodi:role="line"
-           id="tspan18"
-           x="244.16934"
-           y="472.15607">If shooter is 6+ cm higher than target, ignore substantial cover</tspan><tspan
-           sodipodi:role="line"
-           x="244.16934"
-           y="487.15607"
-           id="tspan19">(assuming that cover is not higher than chest height).</tspan></text>
+           x="163.37337"
+           y="458.15286"
+           id="tspan19">If shooter is 6+ cm higher than target, ignore substantial cover (assuming cover is not higher than chest height).</tspan></text>
     </g>
     <g
        id="g388"
-       inkscape:label="Interruptions">
+       inkscape:label="Interruptions"
+       transform="translate(0,-90.812014)">
       <g
          id="g8"
          inkscape:label="Table"
@@ -965,61 +1137,6 @@
            style="font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:akaPosse;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0"
            y="0">Interruptions (Pg. 12)</tspan></text>
-    </g>
-    <g
-       id="g9"
-       inkscape:label="Header"
-       transform="translate(0,-12)">
-      <text
-         id="text6"
-         xml:space="preserve"
-         transform="matrix(1.3333333,0,0,1.3333333,244.3052,95.0996)"><tspan
-           id="tspan6"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'Vanilla Whale';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           y="0">Dead</tspan></text>
-      <text
-         id="text7"
-         xml:space="preserve"
-         transform="matrix(1.3333333,0,0,2.6666667,331.3032,95.0996)"><tspan
-           id="tspan7"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Vanilla Whale';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           y="0">_</tspan></text>
-      <text
-         id="text8"
-         xml:space="preserve"
-         transform="matrix(1.3333333,0,0,1.3333333,345.6728,95.0996)"><tspan
-           id="tspan8"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'Vanilla Whale';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           y="0">man’s</tspan></text>
-      <text
-         id="text9"
-         xml:space="preserve"
-         transform="matrix(1.3333333,0,0,2.6666667,446.28933,95.0996)"><tspan
-           id="tspan9"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'Vanilla Whale';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           y="0">_</tspan></text>
-      <text
-         id="text10"
-         xml:space="preserve"
-         transform="matrix(1.3333333,0,0,1.3333333,460.65893,95.0996)"><tspan
-           id="tspan10"
-           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'Vanilla Whale';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="0"
-           y="0">hanD</tspan></text>
-      <text
-         id="text11"
-         xml:space="preserve"
-         x="267.68939"
-         y="120.32579"
-         style="font-size:16px;stroke-width:1.33333"><tspan
-           id="tspan11"
-           style="font-variant:normal;font-weight:600;font-stretch:normal;font-size:24px;font-family:akaPosse;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
-           x="267.68939"
-           y="120.32579">quick reference sheet 2</tspan></text>
     </g>
   </g>
 </svg>
