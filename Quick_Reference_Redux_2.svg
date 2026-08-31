@@ -93,7 +93,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
      inkscape:cx="384.28172"
-     inkscape:cy="352.56429"
+     inkscape:cy="779.91495"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -548,7 +548,9 @@
            x="224.85065"
            y="1021.4921"
            style="fill:#000000;fill-opacity:1"
-           id="tspan41">The fighter with higher initiative may brake off and move away using 2 Move actions.</tspan><tspan
+           id="tspan41">The fighter with higher initiative may <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+   id="tspan7">brake off</tspan> and move away using 2 Move actions.</tspan><tspan
            sodipodi:role="line"
            x="224.85065"
            y="1036.4922"
