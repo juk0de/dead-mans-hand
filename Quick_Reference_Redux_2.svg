@@ -7,7 +7,7 @@
    width="793.70135"
    height="1122.52"
    viewBox="0 0 793.70135 1122.52"
-   sodipodi:docname="Quick_Reference_2.svg"
+   sodipodi:docname="Quick_Reference_Redux_2.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -92,8 +92,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
-     inkscape:cx="435.69735"
-     inkscape:cy="887.42035"
+     inkscape:cx="384.28172"
+     inkscape:cy="352.56429"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -252,7 +252,7 @@
     <g
        id="g11"
        inkscape:label="Hand to Hand Fighting"
-       transform="translate(0,-224.87833)">
+       transform="translate(0,-232.87833)">
       <g
          id="g62"
          inkscape:label="Table"
@@ -260,8 +260,8 @@
          transform="translate(0,702)">
         <path
            id="path76"
-           d="M 48.666665,416.02918 H 239.99999 v 37.93347 H 48.666665 Z m 191.333325,0 h 505.03466 v 37.93347 H 239.99999 Z"
-           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.86431"
+           d="M 48.666665,416.02918 H 239.99999 v 51.95591 H 48.666665 Z m 191.333325,0 h 505.03466 v 51.95591 H 239.99999 Z"
+           style="fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.18185"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path74"
@@ -330,18 +330,18 @@
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path60"
-           d="M 0,-134.30636 V 83.757565"
+           d="M 0,-144.80636 V 83.757565"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,48.666667,274.404)"
            sodipodi:nodetypes="cc" />
         <path
            id="path61"
-           d="M 218,454.62226 V 162.72725"
+           d="M 218,468.62226 V 162.72725"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path62"
-           d="M 0,-134.30636 V 87.023518"
+           d="M 0,-144.80636 V 87.023518"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            transform="matrix(1.3333333,0,0,-1.3333333,745.03413,274.404)"
            sodipodi:nodetypes="cc" />
@@ -371,11 +371,11 @@
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path83"
-           d="M 48,453.98481 H 240"
+           d="M 48,467.98481 H 240"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path84"
-           d="M 240,453.98481 H 745.70132"
+           d="M 240,467.98481 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <text
@@ -437,7 +437,7 @@
            x="224.85065"
            y="895.40753"
            style="fill:#000000;fill-opacity:1"
-           id="tspan20">Roll against each other with a D10</tspan><tspan
+           id="tspan20">Roll against each other with a D10 and the following modifiers:</tspan><tspan
            sodipodi:role="line"
            x="224.85065"
            y="910.40753"
@@ -505,7 +505,7 @@
            id="tspan26"
            x="54.674465"
            y="1059.6896"
-           style="fill:#000000;fill-opacity:1">Fight for Time</tspan></text>
+           style="fill:#000000;fill-opacity:1">Fighting for Time</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
@@ -532,7 +532,7 @@
            id="tspan31"
            x="55.154453"
            y="1006.4921"
-           style="fill:#000000;fill-opacity:1">Consecutive turns</tspan></text>
+           style="fill:#000000;fill-opacity:1">Consecutive turns of fighting</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
@@ -553,7 +553,7 @@
            x="224.85065"
            y="1036.4922"
            style="fill:#000000;fill-opacity:1"
-           id="tspan35">Only one fight / roll off happens per turn! If both combatants survive, their remaining actions are lost.</tspan></text>
+           id="tspan35">If both combatants survive, their remaining actions are lost. Only one fight / roll off per turn!</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#eee6df;fill-opacity:1;stroke-width:0.8"
@@ -591,12 +591,17 @@
            x="225.03067"
            y="1148.7512"
            style="fill:#000000;fill-opacity:1"
-           id="tspan73">before rolling dice). Apply falling damage to the looser instead of normal HtH damage.</tspan></text>
+           id="tspan5">before the roll off). Apply falling damage to the looser instead of HtH damage. If opponent is pushed</tspan><tspan
+           sodipodi:role="line"
+           x="225.03067"
+           y="1163.7512"
+           style="fill:#000000;fill-opacity:1"
+           id="tspan6">towards another character, that character must pass a Nerve test or take an Under Fire Marker.</tspan></text>
     </g>
     <g
        id="g3"
        inkscape:label="Falling"
-       transform="translate(0,-134.72857)">
+       transform="translate(0,-136.72857)">
       <g
          id="g42"
          inkscape:label="Table"
@@ -859,7 +864,7 @@
        id="g2"
        inkscape:label="Shooting from higher Ground"
        style="display:inline"
-       transform="translate(0,-125.409)">
+       transform="translate(0,-121.409)">
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#ad8d6e;fill-opacity:0.774773"
@@ -969,7 +974,7 @@
     <g
        id="g388"
        inkscape:label="Interruptions"
-       transform="translate(0,-90.812014)">
+       transform="translate(0,-80.812014)">
       <g
          id="g8"
          inkscape:label="Table"
@@ -1011,9 +1016,8 @@
            sodipodi:nodetypes="cc" />
         <path
            id="path150"
-           d="M 0,-22.663692 V 86.757565"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,240,274.404)"
+           d="M 192,304.62226 V 158.72725"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path151"
@@ -1033,21 +1037,21 @@
       <text
          xml:space="preserve"
          style="font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:0.774773"
-         x="245.30934"
+         x="201.30934"
          y="155.1814"
          id="text373"><tspan
            sodipodi:role="line"
            id="tspan373"
-           x="245.30934"
+           x="201.30934"
            y="155.1814"
-           style="fill:#000000;fill-opacity:1">If not yet activated and being shot at -&gt; Move up to 10cm toward cover / away from the shooter.</tspan><tspan
+           style="fill:#000000;fill-opacity:1">If not yet activated and being shot at -&gt; Move up to 10cm towards cover / away from the shooter.</tspan><tspan
            sodipodi:role="line"
-           x="245.30934"
+           x="201.30934"
            y="170.1814"
            style="fill:#000000;fill-opacity:1"
-           id="tspan374">Shooter is entitled to a single shot, even if target moves out of sight.</tspan><tspan
+           id="tspan374">The shooter is entitled to a single shot, even if the target moves out of sight.</tspan><tspan
            sodipodi:role="line"
-           x="245.30934"
+           x="201.30934"
            y="185.1814"
            style="fill:#000000;fill-opacity:1"
            id="tspan376"><tspan
@@ -1087,33 +1091,33 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
-         x="244.68533"
+         x="200.68533"
          y="206.39883"
          id="text381"><tspan
            sodipodi:role="line"
            id="tspan381"
-           x="244.68533"
-           y="206.39883">If not yet activated and enemy activates -&gt; take a single Shoot against the activating enemy.</tspan><tspan
+           x="200.68533"
+           y="206.39883">If not yet activated and enemy activates -&gt; take a single Shoot action against the activating enemy.</tspan><tspan
            sodipodi:role="line"
-           x="244.68533"
+           x="200.68533"
            y="221.39883"
            id="tspan382">The enemy character does not have to attack the interrupting character.</tspan><tspan
            sodipodi:role="line"
-           x="244.68533"
+           x="200.68533"
            y="236.39883"
            id="tspan383">If the enemy character is moving, the shot can be taken at any point during that movement.</tspan><tspan
            sodipodi:role="line"
-           x="244.68533"
+           x="200.68533"
            y="251.39883"
            id="tspan384">If the enemy character is shooting:</tspan><tspan
            sodipodi:role="line"
-           x="244.68533"
+           x="200.68533"
            y="266.39883"
-           id="tspan385">- quickshooter shoots first if enemy is at long range</tspan><tspan
+           id="tspan385">- the quickshooter shoots first if enemy is at long range</tspan><tspan
            sodipodi:role="line"
-           x="244.68533"
+           x="200.68533"
            y="281.39883"
-           id="tspan386">- shooting is simultaneously if enemy is at close or point blank range</tspan></text>
+           id="tspan386">- the shooting is simultaneously if enemy is at close or point blank range</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1"
