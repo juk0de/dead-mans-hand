@@ -92,8 +92,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
-     inkscape:cx="384.28172"
-     inkscape:cy="779.91495"
+     inkscape:cx="384.61559"
+     inkscape:cy="512.82079"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -761,7 +761,7 @@
            sodipodi:role="line"
            id="tspan48"
            x="54.674465"
-           y="606.83649">... from a moving train / wagon</tspan></text>
+           y="606.83649">... from a moving vehicle</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
@@ -781,7 +781,7 @@
            sodipodi:role="line"
            id="tspan50"
            x="54.674465"
-           y="632.52991">... from a horse / moving vehicle</tspan></text>
+           y="632.52991">... from a horse</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
@@ -815,7 +815,7 @@
            sodipodi:role="line"
            id="tspan59"
            x="244.08534"
-           y="632.52991">Default damage. Also applies after failed mount / dismount.</tspan></text>
+           y="632.52991">Default damage.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
