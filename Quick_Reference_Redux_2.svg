@@ -93,7 +93,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
      inkscape:cx="384.61559"
-     inkscape:cy="512.82079"
+     inkscape:cy="352.56429"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -141,7 +141,7 @@
     <g
        id="g10"
        inkscape:label="Big Nerve Test"
-       transform="translate(0,227.93909)">
+       transform="translate(0,243.93909)">
       <g
          id="g43"
          inkscape:label="Table"
@@ -240,19 +240,19 @@
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000"
          x="47.920006"
-         y="737.17987"
+         y="739.17987"
          id="text1"
          inkscape:label="Title"><tspan
            sodipodi:role="line"
            id="tspan1"
            x="47.920006"
-           y="737.17987"
+           y="739.17987"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold'">Big Nerve Test (Pg. 14)</tspan></text>
     </g>
     <g
        id="g11"
        inkscape:label="Hand to Hand Fighting"
-       transform="translate(0,-232.87833)">
+       transform="translate(0,-214.37833)">
       <g
          id="g62"
          inkscape:label="Table"
@@ -407,14 +407,13 @@
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000"
          x="47.920006"
-         y="849.17987"
+         y="833.17987"
          id="text4"
-         inkscape:label="Title"
-         transform="translate(0,-20)"><tspan
+         inkscape:label="Title"><tspan
            sodipodi:role="line"
            id="tspan4"
            x="47.920006"
-           y="849.17987"
+           y="833.17987"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold'">Hand to Hand Fighting (Pg. 15)</tspan></text>
       <text
          xml:space="preserve"
@@ -603,7 +602,7 @@
     <g
        id="g3"
        inkscape:label="Falling"
-       transform="translate(0,-136.72857)">
+       transform="translate(0,-137.72857)">
       <g
          id="g42"
          inkscape:label="Table"
@@ -621,27 +620,27 @@
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path34"
-           d="M 48.666667,602.81886 V 414.47632"
+           d="M 48.666667,626.81886 V 414.47632"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path35"
-           d="M 240,603.29102 V 414.47632"
+           d="M 240,627.29102 V 414.47632"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path36"
-           d="m 745.03413,602.81886 v -188.023"
+           d="m 745.03413,626.81886 v -212.023"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path37"
-           d="M 48,603.04969 H 240"
-           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+           d="M 48,594.11528 H 240"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path38"
-           d="M 240,603.04969 H 745.70132"
-           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+           d="M 240,594.11528 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path39"
            d="M 48,414.9931 H 240"
@@ -668,36 +667,44 @@
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path50"
-           d="M 48,487.43743 H 240"
+           d="M 48,485.43743 H 240"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path51"
-           d="M 240,487.43743 H 745.70132"
+           d="M 240,485.43743 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path52"
-           d="M 48,514.1212 H 240"
+           d="M 48,508.1212 H 240"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path53"
-           d="M 240,514.1212 H 745.70132"
+           d="M 240,508.1212 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path54"
-           d="M 48,540.80496 H 240"
+           d="M 48,543.48872 H 240"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path55"
-           d="M 240,540.80496 H 745.70132"
+           d="M 240,543.48872 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path63"
-           d="M 48,567.48873 H 240"
+           d="M 48,568.83702 H 240"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
            id="path64"
-           d="M 240,567.48873 H 745.70132"
+           d="M 240,568.83702 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path15"
+           d="M 48,627.04969 H 240"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           id="path24"
+           d="M 240,627.04969 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       </g>
       <text
          xml:space="preserve"
@@ -746,42 +753,42 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="54.674465"
-         y="582.33112"
+         y="580.99567"
          id="text47"><tspan
            sodipodi:role="line"
            id="tspan47"
            x="54.674465"
-           y="582.33112">... from more than 20cm</tspan></text>
+           y="580.99567">... from more than 20cm</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="54.674465"
-         y="606.83649"
+         y="602.83649"
          id="text48"><tspan
            sodipodi:role="line"
            id="tspan48"
            x="54.674465"
-           y="606.83649">... from a moving vehicle</tspan></text>
+           y="602.83649">... from a moving vehicle</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="54.674465"
-         y="687.39282"
+         y="714.11188"
          id="text49"><tspan
            sodipodi:role="line"
            id="tspan49"
            x="54.674465"
-           y="687.39282">... out of a window</tspan></text>
+           y="714.11188">... out of a window</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="54.674465"
-         y="632.52991"
+         y="661.25214"
          id="text50"><tspan
            sodipodi:role="line"
            id="tspan50"
            x="54.674465"
-           y="632.52991">... from a horse</tspan></text>
+           y="661.25214">... from a horse</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
@@ -798,58 +805,58 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="244.08534"
-         y="606.81848"
+         y="602.81848"
          id="text58"><tspan
            sodipodi:role="line"
            id="tspan58"
            x="244.08534"
-           y="606.81848">Roll <tspan
+           y="602.81848">Roll <tspan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
    id="tspan57">twice</tspan> on the shooting table and apply the result.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="244.08534"
-         y="632.52991"
+         y="661.25214"
          id="text59"><tspan
            sodipodi:role="line"
            id="tspan59"
            x="244.08534"
-           y="632.52991">Default damage.</tspan></text>
+           y="661.25214">Default damage.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="244.92534"
-         y="683.95264"
+         y="708.67169"
          id="text60"><tspan
            sodipodi:role="line"
            id="tspan60"
            x="244.92534"
-           y="683.95264">Default damage. But only fall if direction points out of the window (otherwise move character</tspan><tspan
+           y="708.67169">Default damage (unless height &gt; 20cm). But only fall if direction points out of the window</tspan><tspan
            sodipodi:role="line"
            x="244.92534"
-           y="698.95264"
-           id="tspan61">within the room).</tspan></text>
+           y="723.67169"
+           id="tspan61">(otherwise move character within the room).</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="54.674465"
-         y="659.1676"
+         y="687.22211"
          id="text62"><tspan
            sodipodi:role="line"
            id="tspan62"
            x="54.674465"
-           y="659.1676">... while jumping</tspan></text>
+           y="687.22211">... while jumping</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
          x="244.08534"
-         y="659.18561"
+         y="687.24011"
          id="text63"><tspan
            sodipodi:role="line"
            id="tspan63"
            x="244.08534"
-           y="659.18561">Default damage (unless height &gt; 20cm). But no nerve test required (any hit leads to a fall).</tspan></text>
+           y="687.24011">Default damage (unless height &gt; 20cm). But no nerve test required (any hit leads to a fall).</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000"
@@ -861,12 +868,36 @@
            x="47.920006"
            y="510.81757"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold'">Falling (Pg. 11)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
+         x="54.674465"
+         y="624.21362"
+         id="text8"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="54.674465"
+           y="624.21362">... when failing to mount/dismount</tspan><tspan
+           sodipodi:role="line"
+           x="54.674465"
+           y="639.21362"
+           id="tspan9">    a moving vehicle</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
+         x="244.08534"
+         y="631.23932"
+         id="text29"><tspan
+           sodipodi:role="line"
+           id="tspan29"
+           x="244.08534"
+           y="631.23932">Default damage.</tspan></text>
     </g>
     <g
        id="g2"
        inkscape:label="Shooting from higher Ground"
        style="display:inline"
-       transform="translate(0,-121.409)">
+       transform="translate(0,-121.909)">
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#ad8d6e;fill-opacity:0.774773"
