@@ -92,8 +92,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
-     inkscape:cx="384.28172"
-     inkscape:cy="726.82998"
+     inkscape:cx="384.61559"
+     inkscape:cy="513.15465"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -116,7 +116,8 @@
      inkscape:label="1">
     <g
        id="g6"
-       inkscape:label="Background">
+       inkscape:label="Background"
+       style="display:inline">
       <g
          opacity="0.600006"
          clip-path="url(#clipPath4)"
@@ -768,7 +769,7 @@
            sodipodi:role="line"
            id="tspan48"
            x="54.674465"
-           y="602.83649">... from a moving vehicle</tspan></text>
+           y="602.83649">... off a moving vehicle</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
@@ -788,7 +789,7 @@
            sodipodi:role="line"
            id="tspan50"
            x="54.674465"
-           y="661.25214">... from a horse</tspan></text>
+           y="661.25214">... off a horse</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8;stroke-dasharray:none"
@@ -877,7 +878,7 @@
            sodipodi:role="line"
            id="tspan8"
            x="54.674465"
-           y="624.21362">... when failing to mount/dismount</tspan><tspan
+           y="624.21362">... after failing to mount/dismount</tspan><tspan
            sodipodi:role="line"
            x="54.674465"
            y="639.21362"
@@ -1002,7 +1003,7 @@
            sodipodi:role="line"
            x="163.37337"
            y="458.15286"
-           id="tspan19">If shooter is 6+ cm higher than target, ignore substantial cover (assuming cover is not higher than chest height).</tspan></text>
+           id="tspan19">If shooter is 6+ cm higher than target, ignore substantial cover (assuming cover isn't higher than chest height).</tspan></text>
     </g>
     <g
        id="g388"
