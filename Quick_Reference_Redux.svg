@@ -91,9 +91,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.0333891"
-     inkscape:cx="397.23662"
-     inkscape:cy="561.26002"
+     inkscape:zoom="2.0667782"
+     inkscape:cx="397.72047"
+     inkscape:cy="483.60293"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -423,7 +423,7 @@
          id="tspan60"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="48"
-         y="485.52548">**only applies to the frst shot taken. Rifes and bufalo rifes may aim twice.</tspan></text>
+         y="485.52548">**only applies to the first shot taken. Rifles and buffalo rifles may aim twice.</tspan></text>
     <path
        id="path60"
        d="M 48.666665,492.28935 H 583.30665 v 19.40266 H 48.666665 Z m 534.639985,0 h 161.72666 v 19.40266 H 583.30665 Z"
@@ -584,7 +584,7 @@
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="54"
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 401.90399"
-         y="545.16669">Behind Substantial cover-1</tspan><tspan
+         y="545.16669">Behind Substantial Cover-1</tspan><tspan
          id="tspan97"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="54"
@@ -889,7 +889,7 @@
          id="tspan161"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="48"
-         y="287.74332">**only afects the single, following shot</tspan></text>
+         y="287.74332">**only affects the single, following shot</tspan></text>
     <path
        id="path161"
        d="M 48.666665,668.35201 H 162.52 v 49.472 H 48.666665 Z m 113.853335,0 h 62.36266 v 49.472 H 162.52 Z m 62.36133,0 h 179.96799 v 19.40267 H 224.88133 Z m 179.96933,0 h 340.18399 v 49.472 H 404.85066 Z m -179.96933,19.40267 h 54.80266 v 30.06933 h -54.80266 z m 54.804,0 h 60.47199 v 30.06933 h -60.47199 z m 60.47199,0 h 64.69334 v 30.06933 h -64.69334 z"
@@ -1647,8 +1647,8 @@
          id="tspan343"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="54"
-         dx="0 0 0 0 112.368 45.575996 0 0 31.955997 0 0 0 0 0 37.068001"
-         y="751.29718">Rife1N/A0 - 5051+</tspan></text>
+         dx="0 0 0 0 0 112.368 45.575996 0 0 31.955997 0 0 0 0 0 37.068001"
+         y="751.29718">Rifle1N/A0 - 5051+</tspan></text>
     <text
        id="text343"
        xml:space="preserve"
@@ -1759,8 +1759,8 @@
          id="tspan355"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:'Minion Pro';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="410.18372"
-         dx="0 -0.48733333 0 0 0 0 0 0 0 -0.14733332 0 0 -0.14733332 0 0 0 -0.13599999 0 0 0 0 0 -0.48846665 0 0 0 0 0 0 0 -0.14733332 0 0 0 0 -0.28446665 0 0.32866666 -0.090666667 0 0 -0.067999996 0 0 0 0 0 0 -0.13599999 0 0 -0.13599999 0 0 -0.102 0 0 0 0 -0.102 -0.067999996 0 0 0 0 0.067999996 0 -0.090666667"
-         y="862.73041">Under Fire results = Under Fire &amp; Nerve test; Out of ammo afer fring</tspan></text>
+         dx="0 -0.48733333 0 0 0 0 0 0 0 -0.14733332 0 0 -0.14733332 0 0 0 -0.13599999 0 0 0 0 0 -0.48846665 0 0 0 0 0 0 0 -0.14733332 0 0 0 0 -0.28446665 0 0.32866666 -0.090666667 0 0 -0.067999996 0 0 0 0 0 0 -0.13599999 0 0 -0.13599999 0 0 -0.102 0 0 0 0 -0.102 0 -0.067999996 0 0 0 0 0 0.067999996 0 -0.090666667"
+         y="862.73041">Under Fire results = Under Fire &amp; Nerve test; Out of ammo after firing</tspan></text>
     <text
        id="text355"
        xml:space="preserve"
@@ -1770,8 +1770,8 @@
          id="tspan356"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="54"
-         dx="0 0 0 0 0 0 0 0 0 0 0 71.940002 45.575996 0 0 31.955997 0 0 0 0 0 37.068001"
-         y="889.46667">Bufalo Rife1N/A0 - 6061+</tspan></text>
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 71.940002 45.575996 0 0 31.955997 0 0 0 0 0 37.068001"
+         y="889.46667">Buffalo Rifle1N/A0 - 6061+</tspan></text>
     <text
        id="text356"
        xml:space="preserve"
@@ -1781,8 +1781,8 @@
          id="tspan357"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:'Minion Pro';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="410.18372"
-         dx="0 -0.48733333 0 0 0 0 0.65733331 0 0 -0.14733332 0 0.65733331 -0.14733332 0 0 0 -0.13599999 0 0 0.65733331 0 0.65733331 -0.48733333 0 0 0 0 0.65733331 0 0 -0.14733332 0 0.65733331 0 0.65733331 -0.28333333 0 0.32866666 -0.090666667 0 0.65733331 -0.067999996 0 0 0 0 0.65733331 0 -0.13599999 0 0.65733331 -0.13599999 0 0.65733331 -0.102 0 0 0 0.65733331 -0.102 -0.069133326 0 0 0.65733331 0 0.067999996 0 -0.090666667"
-         y="881.88483">Under Fire results = Under Fire &amp; Nerve test; Out of ammo afer fring; </tspan><tspan
+         dx="0 -0.48733333 0 0 0 0 0.65733331 0 0 -0.14733332 0 0.65733331 -0.14733332 0 0 0 -0.13599999 0 0 0.65733331 0 0.65733331 -0.48733333 0 0 0 0 0.65733331 0 0 -0.14733332 0 0.65733331 0 0.65733331 -0.28333333 0 0.32866666 -0.090666667 0 0.65733331 -0.067999996 0 0 0 0 0.65733331 0 -0.13599999 0 0.65733331 -0.13599999 0 0.65733331 -0.102 0 0 0 0.65733331 -0.102 0 -0.069133326 0 0 0.65733331 0 0 0.067999996 0 -0.090666667"
+         y="881.88483">Under Fire results = Under Fire &amp; Nerve test; Out of ammo after firing; </tspan><tspan
          id="tspan358"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:'Minion Pro';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="410.18372"
@@ -1866,7 +1866,7 @@
          id="tspan367"
          style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3333px;font-family:'Minion Pro';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333"
          x="410.18372"
-         dx="0 -0.28333333 0 0.32866666 -0.090666667 0 0 -0.069133326 0 0 0 0 0 0 -0.13599999 0 0 -0.13599999 0 0 -0.102 0 0 0 0 -0.102 -0.067999996 0 0 0 0 0.066866666 0 -0.090666667"
-         y="983.59534">Nerve test; Out of ammo afer fring</tspan></text>
+         dx="0 -0.28333333 0 0.32866666 -0.090666667 0 0 -0.069133326 0 0 0 0 0 0 -0.13599999 0 0 -0.13599999 0 0 -0.102 0 0 0 0 -0.102 0 -0.067999996 0 0 0 0 0 0.066866666 0 -0.090666667"
+         y="983.59534">Nerve test; Out of ammo after firing</tspan></text>
   </g>
 </svg>
