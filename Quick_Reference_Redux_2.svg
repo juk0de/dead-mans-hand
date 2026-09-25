@@ -92,8 +92,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4975992"
-     inkscape:cx="384.61559"
-     inkscape:cy="513.15465"
+     inkscape:cx="325.85487"
+     inkscape:cy="865.05121"
      inkscape:window-width="2510"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -150,13 +150,13 @@
          transform="translate(0,606)">
         <path
            id="path85"
-           d="m 244.31314,140.33385 h 137.57771 v 39.26894 H 244.31314 Z m 137.57771,0 h 363.1438 v 39.26894 h -363.1438 z"
-           style="display:inline;fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.60847"
+           d="M 48.838805,165.76028 H 240.12484 v 56.18377 H 48.838805 Z m 191.286035,0 h 504.90981 v 56.18377 H 240.12484 Z"
+           style="display:inline;fill:#eee6df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.26861"
            sodipodi:nodetypes="cccccccccc" />
         <path
            id="path12"
-           d="m 48.666665,139.24936 h 53.183225 v 41.43793 H 48.666665 Z m 53.183225,0 h 140.38 v 41.43793 h -140.38 z"
-           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0273" />
+           d="M 48.666665,139.34764 H 240.18345 v 27.49649 H 48.666665 Z m 191.516785,0 h 505.51893 v 27.49649 H 240.18345 Z"
+           style="fill:#dccec0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.58801" />
         <path
            id="path17"
            d="M 0,0 H 144"
@@ -164,9 +164,10 @@
            transform="matrix(1.3333333,0,0,-1.3333333,48,139.2496)" />
         <path
            id="path18"
-           d="M 0,0 V 13.552"
+           d="M 0,-48.577752 0,13.552"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,48.666667,157.986)" />
+           transform="matrix(1.3333333,0,0,-1.3333333,48.666667,157.986)"
+           sodipodi:nodetypes="cc" />
         <path
            id="path19"
            d="M 0,0 H 379.276"
@@ -174,69 +175,70 @@
            transform="matrix(1.3333333,0,0,-1.3333333,240,139.2496)" />
         <path
            id="path22"
-           d="M 242,157.986 V 139.91667"
-           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+           d="m 239.99679,222.42247 v -82.5058"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
         <path
            id="path23"
-           d="M 0,0 V 13.552"
+           d="M 0,-48.327351 V 13.552"
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,745.03413,157.986)" />
+           transform="matrix(1.3333333,0,0,-1.3333333,745.03413,157.986)"
+           sodipodi:nodetypes="cc" />
         <path
            id="path26"
-           d="M 48,180.95156 H 240"
+           d="M 49.001603,167.31213 H 241.0016"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
            id="path27"
-           d="M 240,180.95156 H 745.70132"
+           d="M 240,167.31213 H 745.70132"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
-           id="path28"
-           d="M 0,70.69043 V 89.757565"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,48.666667,274.404)"
-           sodipodi:nodetypes="cc" />
-        <path
-           id="path29"
-           d="m 242,180.62225 v -25.895"
+           id="path65"
+           d="M 48.667735,222.35116 H 240.66774"
            style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
         <path
-           id="path30"
-           d="M 0,70.69043 V 93.023518"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(1.3333333,0,0,-1.3333333,745.03413,274.404)"
+           id="path66"
+           d="M 240,222.35116 H 745.70132"
+           style="fill:none;stroke:#000000;stroke-width:1.33333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:nodetypes="cc" />
       </g>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8"
          x="55.274456"
-         y="763.91815"
+         y="789.96802"
          id="text52"><tspan
            sodipodi:role="line"
            x="55.274456"
-           y="763.91815"
-           id="tspan54">&gt; 50% of your characters are out of </tspan><tspan
+           y="789.96802"
+           id="tspan54"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+   id="tspan15">Big Nerve Test</tspan>: if &gt; 50% of your</tspan><tspan
            sodipodi:role="line"
            x="55.274456"
-           y="778.91815"
-           id="tspan67">action (OOA) at the start of a turn.</tspan></text>
+           y="804.96802"
+           id="tspan67">characters are out of action (OOA)</tspan><tspan
+           sodipodi:role="line"
+           x="55.274456"
+           y="819.96802"
+           id="tspan11">at the start of a turn.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.8"
-         x="250.20724"
-         y="763.25043"
+         x="245.5331"
+         y="789.30029"
          id="text65"><tspan
            sodipodi:role="line"
            id="tspan65"
-           x="250.20724"
-           y="763.25043">Make a Nerve based on the character with the best Nerve value in your gang (that is still alive).</tspan><tspan
+           x="245.5331"
+           y="789.30029">Make a Nerve test based on the character with the best Nerve value in your gang (that is still</tspan><tspan
            sodipodi:role="line"
-           x="250.20724"
-           y="778.25043"
-           id="tspan68">Apply a -1 penalty for each OOA character below 50% (e.g. 4 out of 7 OOA -&gt; -1 penalty).</tspan></text>
+           x="245.5331"
+           y="804.30029"
+           id="tspan68">alive). Apply a -1 penalty for each OOA character below 50% (e.g. 4 out of 7 OOA -&gt; -1 penalty).</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:20px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;fill:#000000"
@@ -248,7 +250,7 @@
            id="tspan1"
            x="47.920006"
            y="739.17987"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold'">Big Nerve Test (Pg. 14)</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:akaPosse;-inkscape-font-specification:'akaPosse Semi-Bold'">Nerve Tests (Pg. 14)</tspan></text>
     </g>
     <g
        id="g11"
@@ -1176,5 +1178,28 @@
            x="0"
            y="0">Interruptions (Pg. 12)</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#000000;fill-opacity:0.999934;stroke-width:0.8"
+       x="54.674465"
+       y="1007.4582"
+       id="text19"><tspan
+         sodipodi:role="line"
+         x="54.674465"
+         y="1007.4582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1"
+         id="tspan30">Roll D10 against Nerve value.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:FreeSans;-inkscape-font-specification:FreeSans;writing-mode:lr-tb;direction:ltr;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.8"
+       x="245.0589"
+       y="1007.4942"
+       id="text34"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="245.0589"
+         y="1007.4942"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+   id="tspan36">Modifiers</tspan>: -1 per Under Fire marker; +1 if friendly character within 15cm (max of +1).</tspan></text>
   </g>
 </svg>
